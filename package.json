@@ -2,20 +2,20 @@
   "name": "tasty-treats-team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://SonGlad.github.io/tasty-treats-team-project",
+  "homepage": "https://Skinick.github.io/tasty-treats-team-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /tasty-treats-team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SonGlad/tasty-treats-team-project.git"
+    "url": "git+https://github.com/Skinick/tasty-treats-team-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SonGlad/tasty-treats-team-project/issues"
+    "url": "https://github.com/Skinick/tasty-treats-team-project/issues"
   },
   "dependencies": {
     "axios": "^1.4.0",
